@@ -1,2 +1,7 @@
 Hello this is file1
 Welcome to Git.
+
+
+<?php
+  echo'new changes';
+?>
